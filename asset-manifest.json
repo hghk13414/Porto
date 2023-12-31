@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Portfilio/static/css/main.9d54aa76.css",
-    "main.js": "/Portfilio/static/js/main.d0a0f995.js",
-    "static/js/787.39bb0775.chunk.js": "/Portfilio/static/js/787.39bb0775.chunk.js",
-    "static/media/Nehad_Shretah_Light.jpg": "/Portfilio/static/media/Nehad_Shretah_Light.b7a22acc827c5c3550f9.jpg",
-    "static/media/Nehad_Shretah_Dark.jpg": "/Portfilio/static/media/Nehad_Shretah_Dark.e0de7a1a5102c4313a6d.jpg",
-    "static/media/Age_Caluclautor.jpg": "/Portfilio/static/media/Age_Caluclautor.9e044ef777568db28109.jpg",
-    "index.html": "/Portfilio/index.html",
-    "main.9d54aa76.css.map": "/Portfilio/static/css/main.9d54aa76.css.map",
-    "main.d0a0f995.js.map": "/Portfilio/static/js/main.d0a0f995.js.map",
-    "787.39bb0775.chunk.js.map": "/Portfilio/static/js/787.39bb0775.chunk.js.map"
+    "main.css": "/Porto/static/css/main.8986d595.css",
+    "main.js": "/Porto/static/js/main.1816b548.js",
+    "static/js/787.39bb0775.chunk.js": "/Porto/static/js/787.39bb0775.chunk.js",
+    "static/media/Nehad_Shretah_Light.jpg": "/Porto/static/media/Nehad_Shretah_Light.b7a22acc827c5c3550f9.jpg",
+    "static/media/Nehad_Shretah_Dark.jpg": "/Porto/static/media/Nehad_Shretah_Dark.e0de7a1a5102c4313a6d.jpg",
+    "static/media/Age_Caluclautor.jpg": "/Porto/static/media/Age_Caluclautor.9e044ef777568db28109.jpg",
+    "index.html": "/Porto/index.html",
+    "main.8986d595.css.map": "/Porto/static/css/main.8986d595.css.map",
+    "main.1816b548.js.map": "/Porto/static/js/main.1816b548.js.map",
+    "787.39bb0775.chunk.js.map": "/Porto/static/js/787.39bb0775.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d54aa76.css",
-    "static/js/main.d0a0f995.js"
+    "static/css/main.8986d595.css",
+    "static/js/main.1816b548.js"
   ]
 }
