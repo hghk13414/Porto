@@ -1,0 +1,172 @@
+a {
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+.port{
+    color:#f53841;
+    text-decoration: none;
+    
+    font-size: 20px;
+}
+
+.demo{
+    color:#f53841;
+    text-decoration: none;
+    font-family:  sans-serif;
+}
+.Name{
+    font-family: 'Lobster', sans-serif;
+    color:#f53841;
+    text-decoration: none;
+
+    
+}
+b{
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+   
+    color:#292828;
+}
+.More{
+    text-align: center;
+    font-family:  sans-serif;
+    border: solid 1px #f53841;
+    background-color:#f53841;
+    color: white;   
+    
+}
+.More:hover{
+    background-color: #ec363f;
+    border-color :#ec363f;
+    color: white;
+}
+
+.up{
+    margin-left: 60%;
+}
+:root{
+    --big:#040404;
+    --small:#828d95;
+    --texto:#828d95;
+    --photos:url("./Nehad_Shretah_Light.jpg");
+    --home:#f53841;
+    --service:#828d95;
+    --projects:#828d95;
+    --contact:#828d95;
+    --about:#828d95;
+    --sun:#f53841;
+    --moon:#828d95;
+    --nav: #f8f9fa;
+    --active:#f53841;
+    --scroll:#828d95;
+}
+.Home{
+    color:var(--home);
+}
+.Service{
+    color:var(--service);
+}
+.Contact{
+    color:var(--contact);
+}
+.Projects{
+    color: var(--projects);
+}
+.About{
+    color:var(--about);
+}
+
+.Text_Big{
+    color:var(--big);
+    text-decoration: none;
+
+}
+.Text_Small{
+    color: var(--small);
+    text-decoration: none;
+
+}
+.Nav{
+    background-color:var(--nav) ;
+}
+.u{ 
+    font-size:17px;
+    text-decoration: none;
+    
+}
+.Orginal_Color,#Orginal_Color{
+    color:var(--texto);
+}
+.Red_Color,#Red_Color{
+    color:#f53841 ;
+}
+.u:hover{
+    color: #f53841;
+}
+#Sun{
+    color:var(--sun);
+}
+#Moon{
+    color:var(--moon);
+}
+
+.photo{
+    display: inline-block;
+    max-width:105%;
+    content: var(--photos);
+    visibility:visible;   
+}
+.Age_PH{
+    display: inline-block;
+    content:url('./Age_Caluclautor.jpg') ;
+    width: 50%;
+    
+}
+#Sun:hover, #Moon:hover{
+    color:#f53841 ;
+}
+.Big_Line{
+    height: 7px;
+    border: solid 1px #f53841;
+    background-color: #f53841;
+    width: 60%;
+
+}
+.Small_Line{
+    margin-top: 3px;
+    height: 7px;
+    border: solid 1px #f53841;
+    background-color: #f53841;
+    width:32%;   
+}
+#scroll{
+color:var(--scroll);
+border:0px;
+
+}
+#toggle{
+   border: none;
+   outline: none;
+   -webkit-box-shadow: none;
+  box-shadow: none;
+
+}
+#toggle:focus{
+    outline: none;
+    border: none;
+    -webkit-box-shadow: none;
+  box-shadow: none;
+}
+#Facebook,#Env,#Linked,#Git{
+    color: var(--scroll);
+    font-size: 40px;
+}
+#Facebook:hover,#Env:hover,#Linked:hover,#Git:hover{
+    color: #f53841;
+}
+.Text_Hav{
+    color:#f53841;
+    font-size: 30px;
+    font-family:sans-serif ;
+}
